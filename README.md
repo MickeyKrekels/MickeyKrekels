@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickeykrekels&label=Profile%20views&color=0e75b6&style=flat" alt="mickeykrekels" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 💬 Ask me about **Docker , C# , Jupyter Notebook , Unity**
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI Types**
 
-- 💬 Ask me about **Docker , C# , Jupyter Notebook , Unity**
+- 💬 Ask me about **Docker, Python, Jupyter Notebook, Machine learning, Deep learning, C#,  Unity**
 
 - 📫 How to reach me **mickey.krekels@student.fontys.nl**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickeykrekels&label=Profile%20views&color=0e75b6&style=flat" alt="mickeykrekels" /> </p>
 
-- 🌱 I’m currently learning **Generative AI Types**
+- 🌱 I’m currently learning **Anomaly Detection methods for Signals**
 
 - 💬 Ask me about **Docker, Python, Jupyter Notebook, Machine learning, Deep learning, C#,  Unity**
 
